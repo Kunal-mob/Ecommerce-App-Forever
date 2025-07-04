@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import NavBar from "./components/NavBar";
+import NavBar from "./components/Navbar";
 import Sidebar from "./components/Sidebar";
 import { Route, Routes } from "react-router-dom";
 import Add from "./pages/Add";
